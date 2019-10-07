@@ -1,1 +1,5 @@
+/.idea/
+/venv/
 /gym_T77/gym_t77.egg-info/
+/gym_T77/__pycache__/
+/gym_T77/envs/__pycache__/

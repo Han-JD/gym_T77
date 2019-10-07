@@ -5,7 +5,7 @@ from stable_baselines.common.policies import MlpPolicy
 from stable_baselines.common.vec_env import SubprocVecEnv
 from stable_baselines import A2C
 
-sys.path.append(r"C:\Users\woare\OneDrive\Documents\RL\gym-T77")
+sys.path.append(r"C:\Users\...\gym-T77")
 
 # multiprocess environment
 n_cpu = 1
